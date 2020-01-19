@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CONTACT_EMAIL</key>
+	<string>dev@sentia.com.au</string>
+	<key>CONTACT_FIRST_NAME</key>
+	<string>Balazs</string>
+	<key>CONTACT_LAST_NAME</key>
+	<string>Szamody</string>
+	<key>CONTACT_PHONE</key>
+	<string>+61280035216</string>
+	<key>DEMO_ACCOUNT_NAME</key>
+	<string>balazs@email.com</string>
+	<key>DEMO_ACCOUNT_PASSWORD</key>
+	<string>qwerty</string>
+</dict>
+</plist>
